@@ -1,0 +1,3 @@
+disable=invalid-name, missing-docstring
+jobs=4
+score=yes
